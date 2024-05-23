@@ -37,3 +37,12 @@ Implementación de la Base de Datos, Pruebas y Validación y Conclusiones y Futu
 puntos a realizar julian:
  Investigación y Análisis del Tema,Diseño de la Base de Datos,Referencias
 
+ Entregables
+
+
+Documentación del diseño de la base de datos en formato Markdown.   julian
+Script de creación de la base de datos.  julian
+Script de población de datos, en nuestro caso la importación de los archivos.  cristian
+Reportes de pruebas y validación en formato Markdown.  cristian
+Repositorio de GitHub con todos los archivos y documentos del proyecto.  julian
+
