@@ -5,3 +5,9 @@ El proyecto de desarrollar una base de datos que almacene los cantos de las aves
 Importancia del Proyecto Hoy en Día
 Conservación de la Biodiversidad:
 La pérdida de hábitats naturales y el cambio climático son amenazas crecientes para las poblaciones de aves. Una base de datos detallada sobre los cantos de las aves puede ayudar a los conservacionistas a monitorear las especies en peligro, identificar cambios en los patrones de comportamiento y diseñar estrategias de conservación más efectivas.
+
+Investigación Científica:
+Los científicos pueden utilizar esta base de datos para estudiar la evolución de los cantos de las aves, analizar su comportamiento y comprender mejor las interacciones entre diferentes especies. 
+
+Educación y Concienciación:
+Las herramientas educativas basadas en esta base de datos pueden ayudar a sensibilizar al público sobre la importancia de las aves y sus hábitats. Aplicaciones móviles y plataformas en línea pueden utilizar estos datos para ofrecer experiencias interactivas y educativas. 
