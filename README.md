@@ -24,3 +24,9 @@ Los cambios en los cantos de las aves pueden ser indicadores tempranos de cambio
 
 Conservación Global:
 La colaboración internacional es esencial para la conservación de las aves migratorias. Una base de datos accesible y bien mantenida puede servir como un recurso global, permitiendo a investigadores y conservacionistas de todo el mundo compartir información y coordinar esfuerzos de conservación.
+
+Avances en la Síntesis de Cantos:
+La generación de cantos de aves sintéticos tiene aplicaciones prácticas en la restauración ecológica, la educación y la investigación. Estos cantos pueden ser utilizados para atraer aves a nuevos hábitats o para estudiar las respuestas de las aves a diferentes estímulos acústicos sin necesidad de intervenir directamente en su entorno natural.
+
+Conclusión
+El proyecto de una base de datos de cantos de aves es una herramienta poderosa que tiene el potencial de transformar la investigación, la conservación y la educación en el campo de la ornitología. Al documentar y analizar los cantos de las aves, no solo preservamos un aspecto vital de nuestra biodiversidad, sino que también sentamos las bases para futuros descubrimientos y avances tecnológicos, como la generación de cantos sintéticos, que pueden beneficiar tanto a las aves como a la humanidad.
