@@ -35,4 +35,5 @@ El proyecto de una base de datos de cantos de aves es una herramienta poderosa q
 puntos a realizar cristian:
 Implementación de la Base de Datos, Pruebas y Validación y Conclusiones y Futuros Aportes.
 puntos a realizar julian:
+ Investigación y Análisis del Tema,Diseño de la Base de Datos,Referencias
 
