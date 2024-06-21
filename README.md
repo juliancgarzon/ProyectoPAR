@@ -58,10 +58,10 @@ La generación de cantos de aves sintéticos tiene aplicaciones prácticas en la
 El proyecto de una base de datos de cantos de aves es una herramienta poderosa que tiene el potencial de transformar la investigación, la conservación y la educación en el campo de la ornitología. Al documentar y analizar los cantos de las aves, no solo preservamos un aspecto vital de nuestra biodiversidad, sino que también sentamos las bases para futuros descubrimientos y avances tecnológicos, como la generación de cantos sintéticos, que pueden beneficiar tanto a las aves como a la humanidad.
 
 
-## puntos a realizar 
-### cristian:
+##  Distribución del trabajo
+### Cristian:
 - Implementación de la Base de Datos, Pruebas y Validación y Conclusiones y Futuros Aportes.
-### julian:
+### Julian:
  - Investigación y Análisis del Tema,Diseño de la Base de Datos,Referencias
 
  ## Entregables
