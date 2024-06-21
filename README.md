@@ -49,3 +49,4 @@ El proyecto de una base de datos de cantos de aves es una herramienta poderosa q
 - cristian Reportes de pruebas y validación en formato Markdown.
 - julian Repositorio de GitHub con todos los archivos y documentos del proyecto.  
 
+2. Diseño de la Base de Datos
