@@ -1,21 +1,28 @@
 # ProyectoPAR
 ---
-## Tabla de Contenido
+### Tabla de Contenido
 
-- [Proyecto Articulador (PAR) - Bases de Datos I](#proyecto-articulador-par---bases-de-datos-i)
-  - [Tabla de Contenido](#tabla-de-contenido)
-  - [Objetivo](#objetivo)
-  - [Tema Seleccionado](#tema-seleccionado)
-  - [Almacenamiento del Proyecto](#almacenamiento-del-proyecto)
-  - [Tareas del Proyecto](#tareas-del-proyecto)
-      - [1. Investigación y Análisis del Tema](#1-investigación-y-análisis-del-tema)
-      - [2. Diseño de la Base de Datos](#2-diseño-de-la-base-de-datos)
-      - [3. Implementación de la Base de Datos](#3-implementación-de-la-base-de-datos)
-      - [4. Pruebas y Validación](#4-pruebas-y-validación)
-      - [5. Conclusiones y Futuros Aportes](#5-conclusiones-y-futuros-aportes)
-      - [6. Referencias](#6-referencias)
+- [Base de Datos de Cantos de Aves](#base-de-datos-de-cantos-de-aves)
+  - [Introducción](#introducción)
+  - [Importancia del Proyecto Hoy en Día](#importancia-del-proyecto-hoy-en-día)
+    - [Conservación de la Biodiversidad](#conservación-de-la-biodiversidad)
+    - [Investigación Científica](#investigación-científica)
+    - [Educación y Concienciación](#educación-y-concienciación)
+    - [Generación de Cantos Sintéticos](#generación-de-cantos-sintéticos)
+  - [Beneficios a Futuro](#beneficios-a-futuro)
+    - [Tecnología y Automatización](#tecnología-y-automatización)
+    - [Monitoreo Ambiental](#monitoreo-ambiental)
+    - [Conservación Global](#conservación-global)
+    - [Avances en la Síntesis de Cantos](#avances-en-la-síntesis-de-cantos)
+  - [Conclusión](#conclusión)
+  - [Puntos a Realizar](#puntos-a-realizar)
+    - [Cristian](#cristian)
+    - [Julian](#julian)
   - [Entregables](#entregables)
-  - [Evaluación](#evaluación)
+  - [Creación de una Base de Datos para Registrar Cantos de Aves](#creación-de-una-base-de-datos-para-registrar-cantos-de-aves)
+    - [Proceso de Creación de la Base de Datos](#proceso-de-creación-de-la-base-de-datos)
+      - [1. Recolección de Requisitos](#1-recolección-de-requisitos)
+      - [2. Diseño del Modelo Entidad-Relación (MER)](#2-diseño-del-modelo-entidad-relación-mer)
 
     
 ## Base de Datos de Cantos de Aves
