@@ -1,7 +1,7 @@
 # Objetivo General:
 Desarrollar una base de datos robusta y accesible que almacene y gestione datos de audios de diversas especies de aves, facilitando la investigación científica, la conservación de la biodiversidad y la educación ambiental."
 
-##Este objetivo general abarca varios aspectos clave:
+## Este objetivo general abarca varios aspectos clave:
 
 Desarrollo de una base de datos robusta: Implica diseñar una estructura de base de datos eficiente y escalable que pueda manejar grandes volúmenes de datos de audio.
 Almacenamiento y gestión de datos de audios: Incluye la captura, almacenamiento seguro y organización sistemática de los audios, asegurando la integridad y accesibilidad de los mismos.
