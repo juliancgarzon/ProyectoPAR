@@ -1,6 +1,23 @@
 # ProyectoPAR
 ---
+## Tabla de Contenido
 
+- [Proyecto Articulador (PAR) - Bases de Datos I](#proyecto-articulador-par---bases-de-datos-i)
+  - [Tabla de Contenido](#tabla-de-contenido)
+  - [Objetivo](#objetivo)
+  - [Tema Seleccionado](#tema-seleccionado)
+  - [Almacenamiento del Proyecto](#almacenamiento-del-proyecto)
+  - [Tareas del Proyecto](#tareas-del-proyecto)
+      - [1. Investigación y Análisis del Tema](#1-investigación-y-análisis-del-tema)
+      - [2. Diseño de la Base de Datos](#2-diseño-de-la-base-de-datos)
+      - [3. Implementación de la Base de Datos](#3-implementación-de-la-base-de-datos)
+      - [4. Pruebas y Validación](#4-pruebas-y-validación)
+      - [5. Conclusiones y Futuros Aportes](#5-conclusiones-y-futuros-aportes)
+      - [6. Referencias](#6-referencias)
+  - [Entregables](#entregables)
+  - [Evaluación](#evaluación)
+
+    
 ## Base de Datos de Cantos de Aves
 ### Introducción
 El proyecto de desarrollar una base de datos que almacene los cantos de las aves es una iniciativa innovadora que tiene gran relevancia en la actualidad y un potencial significativo para el futuro. Este proyecto no solo contribuye al conocimiento científico y a la conservación de las aves, sino que también tiene aplicaciones prácticas en diversas áreas como la educación, la tecnología y la ecología. Además, se contempla la posibilidad de generar cantos de aves sintéticos a partir de muestras de estos cantos, abriendo nuevas oportunidades de investigación y aplicación.
