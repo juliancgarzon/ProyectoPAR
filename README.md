@@ -49,4 +49,19 @@ El proyecto de una base de datos de cantos de aves es una herramienta poderosa q
 - cristian Reportes de pruebas y validación en formato Markdown.
 - julian Repositorio de GitHub con todos los archivos y documentos del proyecto.  
 
-2. Diseño de la Base de Datos
+# Creación de una Base de Datos para Registrar Cantos de Aves
+
+La creación de una base de datos para registrar cantos de aves es un proceso detallado que implica la recopilación y organización de diversos tipos de datos relacionados con las aves y sus cantos. Este proyecto tiene como objetivo principal facilitar el estudio, análisis y conservación de las aves a través del almacenamiento sistemático y accesible de sus cantos.
+
+## Proceso de Creación de la Base de Datos
+
+### 1. Recolección de Requisitos
+El primer paso en la creación de la base de datos es la recolección de todos los requisitos necesarios. Esto incluye:
+
+- **Datos de las Aves**: Información taxonómica de las aves, como nombre científico, nombre común, familia, género y especie.
+- **Datos de los Cantos**: Archivos de audio de los cantos, duración del canto, frecuencia, y características específicas del sonido.
+- **Ubicación y Fecha**: Lugar y fecha de la grabación del canto, incluyendo coordenadas GPS, hábitat, y condiciones climáticas al momento de la grabación.
+- **Equipos Utilizados**: Detalles del equipo de grabación utilizado, como tipo de micrófono y grabadora.
+
+### 2. Diseño del Modelo Entidad-Relación (MER)
+Una vez recopilados los requisitos, se procede al diseño del Modelo Entidad-Relación (MER), que es una representación gráfica de los datos y sus relaciones. Este modelo ayuda a visualizar la estructura de la base de datos y asegura que todos los datos relevantes estén correctamente organizados y relacionados.
