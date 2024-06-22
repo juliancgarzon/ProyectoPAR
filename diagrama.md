@@ -1,3 +1,3 @@
 # se crea un diagrama en MYsql workbench
 
-![song](https://github.com/juliancgarzon/ProyectoPAR/assets/168239576/ca12b32c-51a4-4107-8142-5bf10ba7b343)
+![birdson](https://github.com/juliancgarzon/ProyectoPAR/assets/168239576/a5787763-8b27-411d-9ab2-b9d733a113e6)
